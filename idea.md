@@ -1,10 +1,33 @@
 # Idea
 
-- Juego de zombies en VR
-- Cooperativo en espacio fisico compartido
-- Multiples mapas, cada mapa tiene mecánicas especiales y easter eggs
-  - Parque de bomberos tiene zombies de fuego
-  - Barco titanic tiene lampara que puede caer del techo
-- Progresión por rondas
-- Armas mejorables
-- Personajes con habilidades
+- Juego de zombies en VR.
+- Cooperativo en espacio fisico compartido.
+    - 6x6m
+    - Mínimo 2 jugadores, maximo 6 jugadores.
+- Multiples mapas, cada mapa tiene mecánicas especiales y easter eggs.
+  - Parque de bomberos tiene zombies de fuego.
+  - Barco titanic tiene lampara que puede caer del techo.
+  - Mapa ciudad tiene armas montadas (no se pueden transportar, solo usar)
+  - Cada mapa puede tener diferentes formas de spawnear zombies
+    - Ambulancia, ascensor
+- Progresión por rondas.
+  - Cada 4 rondas, jefe especial
+  - Cada ronda, los zombies aumentan vida y daño
+  - Al finalizar cada ronda se spawnea una caja con armas
+    - pequeña probabilidad de que alguna de ellas sea de mejor rango (gris, verde y oro) 
+- Armas.
+  - Al acertar el disparo, ganas creditos
+  - Son mejorables 
+  - Se obtienen en las cajas al final de cada romda
+  - Se compran a cambio de creditos
+- Reparación de barreras con martillo
+- Objetos consumibles
+  - Municion a cambio de creditos
+  - Cuchillo para pegar cuerpo a cuerpo
+- Personajes con habilidades.
+  - Ingeniero repara mas rapidoç
+  - Forzudo tiene mas vida y daño cuerpo a cuerpo
+- Zombies especiales (fuego, acido, saltan barreras). 
+  - Algunos zombies no les afectan las balas normales en algunas partes del cuerpo (zombies policia)
+  - Algunos zombies no les afectan las balas de fuego (zombies bombero)
+  - El zombie que salta puede evitar las barreras y subirse en un jugador incapacitandolo.
