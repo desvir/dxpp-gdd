@@ -8,7 +8,7 @@
 
    
 
-4. **Narrativa sobre el mapa barco "titanic" y breve historia de [Personaje 3]**
+4. **Narrativa sobre el mapa "?" y breve historia de [Personaje 3]**
 
    
    
