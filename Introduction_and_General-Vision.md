@@ -2,7 +2,8 @@
 
 ## **Introducción**
 ZombieSpread es un apasionante juego multijugador cooperativo-local de supervivencia zombie que te sumerge en una experiencia de terror y acción desarrollado específicamente para Realidad Virtual (VR). 
-Los jugadores deberán cooperar y ponerse de acuerdo para distribuir roles y tareas específicas que los ayudarán a sobrevivir a implacables hordas de zombies de diferentes tipos y habilidades hasta que estas acaben cediendo. 
+Los jugadores deberán cooperar y coordinarse para distribuirse los roles y completar tareas que los ayudarán a sobrevivir frente a implacables hordas de zombies de diferentes tipos y con distintas habilidades especiales con el finde sobrevivir. 
+TODO Add image here
 ¿Serás capaz de resistir el asedio de los muertos vivientes con tus amigos?
 
 ## **Visión General**
