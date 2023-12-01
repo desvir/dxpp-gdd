@@ -56,4 +56,21 @@
       
    
 4. **Narrativa sobre el mapa hospital y breve historia de [Personaje 5] y [Personaje 6]** 
-   
+- Dentro de un maletín de primeros auxilios se puede encontrar dos grabadoras, una con la voz de [Personaje 5] y otra la de [Personaje 6]:
+   - ***Grabación de [Personaje 5]***
+     
+      *Doctora [Personaje 5] al habla, dejo está grabación en caso de que me ocurra algo y está información se pierda, acabo de descubrir que en este hospital se realizan más que operaciones meramente
+        para el bienestar de las personas, aquí se estan realizando experimentos con humanos, aunque no sé cuál es su fin, solo que lo mantienen oculto de todos y-.*
+
+        [*Se escucha a un hombre gritar: ¿Quién anda ahí?*]
+
+        [*Se escuchan multiples personas corriendo y suena algo de estática*]
+
+        [*Suena un fuerte estruendo*]
+
+        [*Suenan gritos y unos gruñidos extraños*]
+
+        [*Se corta la grabación*]
+
+  - ***Grabación de [Personaje 6]***
+       **
