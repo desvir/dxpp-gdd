@@ -37,4 +37,4 @@ Afortunadamente la impaciencia de vuestros nuevos compañeros de cama jugará un
 ### Entrada Oeste
 Un precioso mirador hacia vuestro incierto destino, igual habría sido buena idea blindarlo.
 A lo largo del nivel, conforme más infectados se amontonen en esta entrada, el cristal cederá poco a poco, dando lugar a una mayor cantidad de zombies atravesandolo.
-|[](https://github.com/kevincerro-dvrv/dxpp-gdd/blob/feature/instances/mapas/Hospital/hospital_oeste.png?raw=true)
+![](https://github.com/kevincerro-dvrv/dxpp-gdd/blob/feature/instances/mapas/Hospital/hospital_oeste.png?raw=true)
