@@ -16,7 +16,7 @@ El juego tendra un sistema de puntos, estos puntos seran **compartidos por todo 
 
 Si no fallas ningun disparo durante 15 balas seguidas, las siguientes balas hasta que falles daran un **50% mas de puntos**.
 
-Con los puntos se podran **comprar diferentes objetos y consumibles** en una tienda que estara en una esquina del mapa, pueden salir un numero aleatorio (entre unos limites delimitados en las siguiente tabla) de items que se pueden comprar, todos los jugadores comparten la misma tienda y una vez se acaben los objetos **no se rellenaran**.
+Con los puntos se podran **comprar diferentes objetos y consumibles** en una tienda que estara en una esquina del mapa, pueden salir un numero aleatorio de objetos que se pueden comprar, la cantidad de objetos que puedan aparecer de cada tipo estara limitado entre un numero maximo y minimo que aparece en la siguiente tabla, todos los jugadores comparten la misma tienda y una vez se acaben los objetos **no se rellenaran**.
 
 | Objeto/Consumible   | Valor(puntos)  | cantidad(min-max)|
 | ----------------    | ------------   | ---------------- |
