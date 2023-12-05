@@ -8,7 +8,6 @@ El juego tendra un sistema de puntos, estos puntos seran **compartidos por todo 
 | ----------- | ---------------- |
 | Cabeza   	  | 100    			 |
 | Cuerpo      | 50     			 |
-| Brazo   	  | 50     			 |
 | Pierna      | 40     			 |
 | Brazo   	  | 40     			 |
 | Manos       | 20     			 |
