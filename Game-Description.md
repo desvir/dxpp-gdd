@@ -3,10 +3,10 @@ ZombieSpread es un juego de supervivencia zombie por rondas en realidad virtual 
 - El juego es multijugador cooperativo-local de 2 a 6 jugadores, lo que significa que se podrá jugar con hasta seis jugadores en la misma sala, compartiendo el mismo espacio virtual.
 
   
-- Los jugadores comunicarse a través de gestos y coordinarte para distribuir los roles y completar las tareas que os ayudarán a sobrevivir.
+- Los jugadores podrán comunicarse a través de gestos y coordinarse para distribuir los roles completando las tareas necesarias para sobrevivir.
 
   
-- Cada uno podrá elegir entre 1 de los 6 personajes diferentes los cuáles pueden ser de las diferentes clases:
+- Cada jugador podrá elegir entre 1 de los 6 personajes diferentes los cuáles pueden ser de las diferentes clases:
   - Médico
   - Militar
   - Ingeniero
@@ -24,19 +24,19 @@ ZombieSpread es un juego de supervivencia zombie por rondas en realidad virtual 
 - Es posible abrir puertas, cajones, armarios, etc., y buscar recursos como armas, municiones, medicinas o incluso secretos.
 
   
-- Cada tipo de zombie tiene sus propias características y habilidades especiales, que te obligarán a cambiar de estrategia y a estar alerta.
+- Cada tipo de zombie tiene sus propias características y habilidades especiales, que obligarán al jugador a cambiar de estrategia y a estar alerta.
 
   
 - Existen 3 diferentes mapas jugables.
   - Parque de bomberos de New Hope.
-  - Ciudad
-  - Hospital
+  - Ciudad.
+  - Hospital.
  
     
 - El juego tiene un sistema de progresión por rondas que hace que cada partida y nivel sean únicos.
 
   
-- Las rondas duran una media de 4 minutos, durante los cuales deberás resistir el asedio de los zombies y por cada ronda que pase, los zombies se volverán más fuertes y tendrán más vida, además de que su número se verá incrementado.
+- Las rondas duran una media de 4 minutos, durante los cuáles  los jugadores deberán resistir el asedio de los zombies y por cada ronda que pase, los zombies se volverán más fuertes y tendrán más vida, además de que su número se verá incrementado.
 
   
   
