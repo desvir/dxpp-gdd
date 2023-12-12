@@ -13,6 +13,7 @@ El juego no estará disponible para otras plataformas que no soporten la realida
 ## Tecnología
 
 ### Motor de Juego: Unity3D
+
 Se utilizará el motor de juego Unity3D para el desarrollo de ZombieVR Co-op. Unity ofrece versatilidad y es compatible con múltiples plataformas, facilitando la implementación en distintos dispositivos de realidad virtual y consolas.
 
 ### Seguimiento de Posición:
@@ -29,4 +30,5 @@ Se implementará una red multijugador robusta para admitir la jugabilidad cooper
 Se utilizarán técnicas avanzadas de sincronización de jugadores para garantizar la coherencia de la experiencia de juego entre los participantes, minimizando cualquier desfase entre las acciones de los jugadores.
 
 ### Realidad Aumentada (AR):
+
 Se explorará la posibilidad de integrar elementos de realidad aumentada para proporcionar una experiencia más inmersiva, permitiendo a los jugadores ver elementos del juego en su entorno real.
