@@ -8,7 +8,7 @@ El juego se desarrollará únicamente para la plataforma Meta Quest, mas en conc
 
 ### Otras plataformas:
 
-El juego no estará disponible para otras plataformas que no soporten la realidad virtual, como switch o xbox.
+El juego no estará disponible para otras plataformas como switch, Xbox o PC.
 
 ## Tecnología
 
