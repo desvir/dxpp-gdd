@@ -1,19 +1,19 @@
 
 ## Sistema de progresión
 
-### Progresion de rondas
+### Progresión de rondas
 
-El juego tendra un sistema de progresion por rondas, las rondas son infinitas y duran una media de 4 minutos, cuando una ronda empiece empezaran a salir los zombies y en cuanto se mate al ultimo zombie se acabara la ronda y comenzara la fase de preronda que durara 30 segundos la cual servira para prepararse para la siguiente ronda, una vez pase ese tiempo comenzara la siguiente ronda, cuando una ronda acabe spawneara una caja con armas, cada 3 rondas aparecera un jefe especial, no dejaran de spawnear enemigos hasta que no se acabae con el jefe.
+El juego tendra un sistema de progresión por rondas, las rondas serán infinitas y duran una media de 4 minutos, cuando una ronda empiece saldrán los zombies en cuanto se mate al ultimo zombie se acabara la ronda, 
+cuando una ronda acabe spawneara una caja con armas y comenzará la fase de pre ronda que durara 30 segundos la cual servirá para prepararse para la siguiente ronda, una vez pase ese tiempo comenzará la siguiente ronda, 
+cada 3 rondas aparecerá un jefe especial, no dejarán de spawnear enemigos hasta que no se acabe con el jefe.
 
-Despues de la 3º ronda se encendera una maquina de mejoras que te permite mejorar armas a cambio de puntos, esta maquina de mejoras durara todo lo que quede de partida.
+Cuando acabe la 2º ronda se encenderá una máquina de mejoras que permitirá al jugador mejorar armas a cambio de puntos, esta máquina de mejoras durará todo lo que quede de partida.
 
-Cada ronda que pase los zombies se volveran mas fuertes y tendran mas vida, ademas de que su numero se vera incrementado.
-
-*(Progression en mapas, cada mapa en x numero de ronda le salta algun evento especial como por ejemplo los drops especiales)*
+Por cada ronda que pase los zombies harán 10% mas de daño y tendrán un 20% mas de vida, además de que el numero de zombies será incrementado en 10.
 
 ### Progresion de armas
 
-Apartir de las 3º ronda se activa una maquina de mejora para las armas, a cambio de puntos mejoraras tus armas para que hagan mas daño y tengan mas municion, al mejorara un arma subira su rango los cuales seran verde y arcoiris.
+A partir de las 3º ronda se activara una maquina de mejora para las armas, a cambio de puntos el jugador podrá mejorar armas para que hagan mas daño y tengan más munición, al mejorara un arma subira su rango los cuales serán gris, verde y arcoiris.
 
-Las armas de rango verde haran un 15% mas de daño y 20% mas de municion, y en arcoiris tienen un 10% mas de daño que la rareza verde y un 10% mas de municion que la rareza verde. *(hacer tabla en el futuro)*
+Las armas de rango verde harán un 15% más de daño y 20% más de munición, y en arcoiris tendrán un 10% más de daño que la rareza verde y un 10% más de munición que la rareza verde.
 
