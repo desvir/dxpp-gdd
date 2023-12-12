@@ -21,13 +21,12 @@ Se aprovecharán sistemas de seguimiento de posición, como Oculus Insight y Ste
 Controladores de Mano:
 
 Se integrarán controladores de mano específicos para cada plataforma, permitiendo una interacción precisa y natural con el entorno del juego.
-D. Tecnologías Multijugador
+
 ### Multijugador:
 
 Se implementará una red multijugador robusta para admitir la jugabilidad cooperativa. Se explorarán soluciones peer-to-peer y basadas en servidores, priorizando la estabilidad y baja latencia.
 
 Se utilizarán técnicas avanzadas de sincronización de jugadores para garantizar la coherencia de la experiencia de juego entre los participantes, minimizando cualquier desfase entre las acciones de los jugadores.
-E. Integración de Tecnologías Emergentes
 
 ### Realidad Aumentada (AR):
 Se explorará la posibilidad de integrar elementos de realidad aumentada para proporcionar una experiencia más inmersiva, permitiendo a los jugadores ver elementos del juego en su entorno real.
