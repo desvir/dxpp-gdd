@@ -19,7 +19,6 @@ Se utilizará el motor de juego Unity3D para el desarrollo de ZombieVR Co-op. Un
 ### Seguimiento de Posición:
 
 Se aprovecharán sistemas de seguimiento de posición, como Oculus Insight y SteamVR Tracking, para permitir a los jugadores moverse físicamente en el espacio compartido de juego.
-Controladores de Mano:
 
 Se integrarán controladores de mano específicos para cada plataforma, permitiendo una interacción precisa y natural con el entorno del juego.
 
