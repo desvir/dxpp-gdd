@@ -18,7 +18,7 @@ ZombieSpread es un juego de supervivencia zombie por rondas en realidad virtual 
 - Se podrán usar diversas armas y usar objetos como granadas, cócteles molotov, minas, etc., para causar más daño o crear distracciones.
 
 
-- Existe un sistema de puntos con el cuál podras adquirir/mejoras armas, objetos o habilidades.
+- Existe un sistema de puntos con el cuál podras comprar objetos y mejorar armas.
 
   
 - Es posible abrir puertas, cajones, armarios, etc., y buscar recursos como armas, municiones, medicinas o incluso secretos.
