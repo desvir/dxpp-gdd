@@ -59,9 +59,74 @@ ZombieSpread es un juego de supervivencia zombie por rondas en realidad virtual 
 ## Personajes y enemigos
 -
 ## Niveles y mapas
--
-## Sistema de progresión
-### Progresión de las rondas
+﻿### Niveles y Mapas
+Los niveles sucederán en un espacio reducido donde los jugadores se coordinarán para evitar que ningún zombie logre llegar a vosotros.
+
+Contamos con una serie de niveles principales, cada uno con sus propias características y enemigos propios:
+
+- Hospital
+
+- - Zombies médicos
+
+- Ciudad
+
+- - Zombies Policias
+
+- Parque de bomberos New Hope
+
+- - Zombies bomberos
+
+#### Hospital
+
+Este mapa tendrá lugar en un hospital abandonado tras la desgracia. Esperemos que no haya camillas suficientes para tantos infectados.
+
+El objetivo del diseño de este nivel es hacer sentir a los jugadores rodeados, ya que, si bien los zombies tienen que atravesar pequeños pasillos, el área principal es amplia de tal forma que los zombies se pueden distribuir para abarcar todo el espacio disponible y atacar conjuntamente a los protagonistas.
+
+##### Vista General
+
+Está compuesto por una intersección central donde estarán ubicados los supervivientes rodeados por cuatro entradas que serán llenadas de contagiados en instantes.  
+
+Cada entrada tiene sus propias características y necesitarán de atención constante para no ser sobrepasados.
+
+![](https://github.com/kevincerro-dvrv/dxpp-gdd/blob/main/mapas/Hospital/hospital_vista_aerea.png?raw=true)
+
+##### Entrada Norte
+
+Esta es la entrada principal, los zombies atravesarán la puerta indicando el inicio de la masacre.  
+
+Los zombies empezarán en un espacio reducido donde no podrán pasar todos a la vez para distribuirse posteriormente
+
+![](https://github.com/kevincerro-dvrv/dxpp-gdd/blob/main/mapas/Hospital/hospital_norte.png?raw=true)
+
+##### Entrada Sur
+
+Tras el brote, este edificio quedó deteriorado y algunos muros cedieron, se necesitará mucha masilla para tapiar esos agujero.  
+
+Este, arcaico y robusto, paredón comunica con el aparcamiento. Los zombies intentarán hacer uso de esta abertura para abrirse paso hasta los póstumos.  
+
+Los enfermeros, antiguos trabajadores de este sanatorio, sucumbieron al virus. Pero sus cuerpos sin vida siguen siendo capaces hacer sonar la ahora inquietante sirena de sus vehículos.  
+
+Cada cierto tiempo, una ambulancia aparecerá en este aparcamiento, liberando una gran cantidad de contaminados.
+
+![](https://github.com/kevincerro-dvrv/dxpp-gdd/blob/main/mapas/Hospital/hospital_sur.png?raw=true)
+
+##### Entrada Este
+
+Estas escaleras son las encargadas de comunicar el pabellón principal con la recepción de un edificio que nada más que muerte alberga. Todos los nuevos internos han oído llegar a sus nuevos compañeros de cama y tienen planeada una fría bienvenida.  
+
+Afortunadamente la impaciencia de estos nuevos "amigos" jugará un papel crucial en vuestra supervivencia, la escalera que escojan determinará su velocidad.
+
+![](https://github.com/kevincerro-dvrv/dxpp-gdd/blob/main/mapas/Hospital/hospital_este.png?raw=true)
+
+##### Entrada Oeste
+
+Un precioso mirador hacia un incierto destino, igual habría sido buena idea blindarlo.
+
+A lo largo del nivel, conforme más infectados se amontonen en esta entrada, el cristal cederá poco a poco, dando lugar a una mayor cantidad de zombies atravesándolo.
+
+![](https://github.com/kevincerro-dvrv/dxpp-gdd/blob/main/mapas/Hospital/hospital_oeste.png?raw=true)
+#### Sistema de progresión
+##### Progresión de las rondas
 
 El juego presenta un sistema de progresión basado en rondas infinitas, con una duración promedio de 4 minutos cada una. Una vez que inicia una ronda, los zombies aparecerán, y la ronda concluirá al eliminar al último zombie. Posteriormente, al finalizar la ronda, se generará una caja de armas y se dará inicio a la fase de preronda, que tiene una duración de 30 segundos y brinda la oportunidad de prepararse para la siguiente ronda. Al finalizar este periodo, la siguiente ronda comenzará. Cada tres rondas, se presentará un jefe especial, y la generación de enemigos persistirá hasta derrotar al jefe.
 
@@ -69,11 +134,95 @@ Después de la segunda ronda, se activará una máquina de mejoras que permitir�
 
 Con el transcurso de las rondas, los zombies aumentarán su poder con un incremento del 10% en daño, un 20% más de vida y un aumento de 10 en el número de enemigos.
 
-### Progresión de las armas
+##### Progresión de las armas
 
 Tras la conclusión de la segunda ronda, se habilitará una máquina de mejora para las armas. Los jugadores pueden mejorar sus armas mediante el gasto de puntos, lo que resultará en un aumento de su potencia de fuego y capacidad de munición. Cada mejora elevará el rango del arma, representado por los niveles gris, verde y arcoíris.
 
 Las armas de rango verde experimentarán un incremento del 15% en daño y un aumento del 20% en munición. Aquellas de rareza arcoíris superarán a las de rareza verde con un 10% adicional de daño y un 10% más de munición.
+
+#### Ciudad
+Este mapa tendrá lugar en una ciudad consumida por la infección. Afortunadamente el tráfico está cortado.  
+
+El objetivo de este diseño es crear el caos de una gran ciudad. Todas las entradas cuentan con una serie de callejones que los zombies pueden decidir tomar o no, aquellas zonas libres pueden convertirse en zonas infestadas de enemigos en un abrir y cerrar de ojos.
+
+##### Vista General
+
+El nivel está compuesto por cuatro calles que llevan a un cruce central donde están situados los jugadores, las vías constan de una serie de pasadizos conectados con las avenidas adyacentes.
+
+![](https://github.com/kevincerro-dvrv/dxpp-gdd/blob/main/mapas/Ciudad/ciudad_vista_aerea.png?raw=true)
+
+##### Entrada Norte
+
+En el lado izquierdo tenemos tres pasillos, dos de ellos conectados, por donde los zombies pueden pasar.  
+
+En la zona derecha tenemos pasajes que desembocan en una rotonda por la que los zombies podrán circular.
+
+![](https://github.com/kevincerro-dvrv/dxpp-gdd/blob/main/mapas/Ciudad/ciudad_norte.png?raw=true)
+
+##### Entrada Sur
+
+A la izquierda existen dos pasillos conectados.  
+
+Por la derecha, unos tramos circulares conectan las entradas sur y este.
+
+![](https://github.com/kevincerro-dvrv/dxpp-gdd/blob/main/mapas/Ciudad/ciudad_sur.png?raw=true)
+
+##### Entrada Este
+
+Hacia izquierdo encontramos los pasadizos conectando con la entrada sur.  
+
+En la derecha existen dos paseos con destino giratorio, estos callejones llevan a una rotonda.
+
+![](https://github.com/kevincerro-dvrv/dxpp-gdd/blob/main/mapas/Ciudad/ciudad_este.png?raw=true)
+
+##### Entrada Oeste
+
+Mirando a la izquierda podemos ver el bulevar encargado de conectar las entradas norte y oeste.  
+
+En su inversa descubriremos el sistema de vías que unen la entrada oeste con el sur
+
+![](https://github.com/kevincerro-dvrv/dxpp-gdd/blob/main/mapas/Ciudad/ciudad_oeste.png?raw=true)
+
+﻿#﻿#﻿#﻿# New Hope
+Este mapa tendrá lugar en un parque de bomberos. El objetivo de este mapa es ofrecer un entorno relativamente controlado, pues es un mapa en el que no hay grandes cambios en lo relativo a la aparición de enemigos. No obstante, pueden ocurrir casos en los que la cantidad de zombies superen a nuestros protagonistas.  
+
+En este mapa los supervivientes cuentan con una gran cantidad de espacio dentro de sus barricadas por lo que deben saber distribuirse correctamente, pues tomará cierto tiempo recorrer el espacio entero.
+
+##﻿#﻿#﻿# Vista Aérea
+
+El nivel está compuesto por una amplia área central mayormente ocupada por los jugadores, y cuatro entradas no muy lejanas a las barricadas, de tal forma que no le tomará mucho tiempo a un zombie para empezar a destruirla  
+
+![](https://github.com/kevincerro-dvrv/dxpp-gdd/blob/main/mapas/Parque%20de%20bomberos/bomberos_vista%20aerea.png?raw=true)
+
+##﻿#﻿#﻿# Entrada Norte
+
+Corresponde a la entrada principal del recinto así como al aparcamiento, los zombies avanzarán ardiendo en deseos de comer por estos accesos
+
+![](https://github.com/kevincerro-dvrv/dxpp-gdd/blob/main/mapas/Parque%20de%20bomberos/bomberos_norte.png?raw=true)
+
+##﻿#﻿#﻿# Entrada Sur
+
+La ausencia de vida conlleva una ausencia de vértigo.  
+
+En esta entrada pueden aparecer una mayor cantidad de enemigos debido a sus dos pisos.
+
+![](https://github.com/kevincerro-dvrv/dxpp-gdd/blob/main/mapas/Parque%20de%20bomberos/bomberos_sur.png?raw=true)
+
+##﻿#﻿#﻿# Entrada Este
+
+Hay más de una forma de bajar de piso.
+
+Los zombies descenderán por estas barras, anteriormente usadas por bomberos.
+
+![](https://github.com/kevincerro-dvrv/dxpp-gdd/blob/main/mapas/Parque%20de%20bomberos/bomberos_este.png?raw=true)
+
+##﻿#﻿#﻿# Entrada Oeste
+
+Puede que la falta de ascensores sí que salve vidas después de todo.  
+
+Los zombies bajarán por las escaleras, provocando una aglomeración. Si bien se formará un cuello de botella por el que los zombies tardarán en cruzar, también genera una zona peligrosa, ya que siempre habrá un infectado para ocupar el lugar de otro fallecido, no puedes dejar esta entrada desatendida en ningún momento.
+
+![](https://github.com/kevincerro-dvrv/dxpp-gdd/blob/main/mapas/Parque%20de%20bomberos/bomberos_oeste.png?raw=true)
 
 ## Arte y diseño visual
 -
