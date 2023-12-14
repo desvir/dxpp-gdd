@@ -13,8 +13,47 @@ TODO Add image here
 - El videojuego maximiza el potencial que la realidad virtual puede proporcionar, sumergiendo a los jugadores en una experiencia de inmersión y realismo sin igual. Ofrece libertad de movimiento por escenarios, interacción fluida con el entorno, comunicación con otros jugadores a través de gestos y voz, así como la posibilidad de utilizar una variedad de armas y objetos. 
   
 - El juego está dirigido a los amantes de los juegos de zombies, acción y cooperación. El juego ofrece una variedad de zombies y escenarios que se adaptan al nivel de dificultad y al número de jugadores. El juego también cuenta con un sistema de progresión por rondas que hacen cada pártida y nivel únicos.
+
 ## Descripción del juego
--
+ZombieSpread es un juego de supervivencia zombie por rondas en realidad virtual que permite cooperar con otros jugadores para enfrentar a hordas de zombies en un mundo postapocalíptico combinando terror, acción e inmersión en escenarios variados y con diferentes tipos de zombies. 
+- El juego es multijugador cooperativo-local de 2 a 6 jugadores, lo que significa que se podrá jugar con hasta seis jugadores en la misma sala, compartiendo el mismo espacio virtual.
+
+  
+- Los jugadores podrán comunicarse a través de gestos y coordinarse para distribuir los roles completando las tareas necesarias para sobrevivir.
+
+  
+- Cada jugador podrá elegir entre 1 de los 6 personajes diferentes los cuáles pueden ser de las diferentes clases:
+  - Médico
+  - Militar
+  - Ingeniero
+ 
+    
+- Cada clase tiene unas características únicas que ayudará a los jugadores a sobrevivir.
+
+  
+- Se podrán usar diversas armas y usar objetos como granadas, cócteles molotov, minas, etc., para causar más daño o crear distracciones.
+
+
+- Existe un sistema de puntos con el cuál podras comprar objetos y mejorar armas.
+
+  
+- Es posible abrir puertas, cajones, armarios, etc., y buscar recursos como armas, municiones, medicinas o incluso secretos.
+
+  
+- Cada tipo de zombie tiene sus propias características y habilidades especiales, que obligarán al jugador a cambiar de estrategia y a estar alerta.
+
+  
+- Existen 3 diferentes mapas jugables.
+  - Parque de bomberos de New Hope.
+  - Ciudad.
+  - Hospital.
+ 
+    
+- El juego tiene un sistema de progresión por rondas que hace que cada partida y nivel sean únicos.
+
+  
+- Las rondas duran una media de 4 minutos, durante los cuáles  los jugadores deberán resistir el asedio de los zombies y por cada ronda que pase, los zombies se volverán más fuertes y tendrán más vida, además de que su número se verá incrementado.
+
 ## Mecánicas de juego
 -
 ## Personajes y enemigos
@@ -22,7 +61,20 @@ TODO Add image here
 ## Niveles y mapas
 -
 ## Sistema de progresión
--
+### Progresión de las rondas
+
+El juego presenta un sistema de progresión basado en rondas infinitas, con una duración promedio de 4 minutos cada una. Una vez que inicia una ronda, los zombies aparecerán, y la ronda concluirá al eliminar al último zombie. Posteriormente, al finalizar la ronda, se generará una caja de armas y se dará inicio a la fase de preronda, que tiene una duración de 30 segundos y brinda la oportunidad de prepararse para la siguiente ronda. Al finalizar este periodo, la siguiente ronda comenzará. Cada tres rondas, se presentará un jefe especial, y la generación de enemigos persistirá hasta derrotar al jefe.
+
+Después de la segunda ronda, se activará una máquina de mejoras que permitirá a los jugadores potenciar sus armas a cambio de puntos. Esta máquina de mejoras permanecerá activa durante el resto de la partida.
+
+Con el transcurso de las rondas, los zombies aumentarán su poder con un incremento del 10% en daño, un 20% más de vida y un aumento de 10 en el número de enemigos.
+
+### Progresión de las armas
+
+Tras la conclusión de la segunda ronda, se habilitará una máquina de mejora para las armas. Los jugadores pueden mejorar sus armas mediante el gasto de puntos, lo que resultará en un aumento de su potencia de fuego y capacidad de munición. Cada mejora elevará el rango del arma, representado por los niveles gris, verde y arcoíris.
+
+Las armas de rango verde experimentarán un incremento del 15% en daño y un aumento del 20% en munición. Aquellas de rareza arcoíris superarán a las de rareza verde con un 10% adicional de daño y un 10% más de munición.
+
 ## Arte y diseño visual
 -
 ## Sonido y musica
@@ -113,8 +165,73 @@ TODO Add image here
        [*Se aprecian unos gruñidos entre la estática y se corta*]
 
 ## Economia del juego
+### Economía de puntos
+
+El juego tendrá un sistema de puntos, estos puntos serán **compartidos por todo el equipo**, se conseguirán puntos haciendo daño a zombies y dependiendo de la parte en la que el jugador dispare recibirá más o menos puntos.
+
+| Parte cuerpo| Puntos recibidos |
+| ----------- | ---------------- |
+| Cabeza   	  | 100    			 |
+| Cuerpo      | 50     			 |
+| Pierna      | 40     			 |
+| Brazo   	  | 40     			 |
+| Manos       | 20     			 |
+| Piernas     | 20     			 |
+
+Si no se falla ningún disparo durante 15 balas seguidas, las siguientes balas hasta que se falle darán un **50% más de puntos**.
+
+Con los puntos se podrán **comprar diferentes objetos y consumibles** en una tienda que estará en una esquina del mapa, podrán salir un número aleatorio de objetos que se podrán comprar, la cantidad de objetos que puedan aparecer de cada tipo estará limitado entre un número máximo y mínimo que aparece en la siguiente tabla, todos los jugadores compartirán la misma tienda y una vez se acaben los objetos **no se rellenarán**.
+
+| Objeto/Consumible   | Valor(puntos)  | cantidad(min-max)|
+| ----------------    | ------------   | ---------------- |
+| Caja de munición    | 2000     	   | 1-2			  |
+| Bote de pastillas   | 1000    	   | 6-12			  |
+| Molotov  	  	      | 750     	   | 5-10			  |
+| Granada  		      | 500     	   | 5-10			  |
+
+- La caja de munición permite **restaurar la munición** del arma equipada.
+- Bote pastillas permite **restaurar un 25% de la vida**.
+- El molotov se lanza y genera un **área de fuego** que hace daño a los enemigos.
+- La granada se lanza y genera un **daño de explosion** en un área de 3 metros.
+	
+Habrá una máquina de mejoras que **gastará 4000 puntos** para poder usarse y permitirá al jugador **mejorar un arma** hasta 2 veces.
+
+Cuando un aliado muere, el equipo **perderá 33% de los puntos** y aunque el compañero logre revivir en la ronda siguiente los puntos **no se recuperan**.
 
 ## Pruebas y equilibrio
+### Plan de pruebas
+
+Se contratará a un equipo de testing especializado en videojuegos vr y con un mínimo de 6 personas que realizará pruebas para buscar errores y pruebas de balanceo del juego, 
+Para las pruebas unitarias se usará Unity Test Framework que es un Framework creado por unity para crear pruebas automatizadas.
+
+### Pruebas de balanceo
+
+Se realizarán pruebas manuales con los siguientes objetivos:
+
+	1. Comprobar que la economía del juego esta balanceada, que los objetos no sean demasiado caros para lo que hacen.
+	2. Comprobar que la munición que se le proporciona al jugador de cada arma es suficiente para que aguante al menos 2 rondas.
+	3. Comprobar que los zombies no escalen demasiado alto de vida, daño o cantidad.
+	4. Comprobar que la dificultad se adapta dependiendo de los jugadores que estén conectados en el mapa.
+	5. Dar a probar el juego a personas poco experimentadas para comprobar si marea.
+	6. Revisar que la media que duran las partidas sea aproximadamente de 4 minutos.
+	7. Hacer pruebas pero con diferente número de jugadores para comprobar que todo funciona correctamente.
+	
+Después de hacer cada prueba se apuntarán los problemas de balanceo que se encuentren y se le pasará al equipo de balanceo para que lo arregle.
+
+### Pruebas de errores
+
+Se realizarán pruebas automatizadas y pruebas manuales con los siguientes objetivos:
+
+	1. Comprobar que la munición y el daño de las armas sea el correcto.
+	2. Comprobar que las mecánicas de los zombies especiales funcionan correctamente:
+		- El zombie policía: tiene que tener bien delimitada la zona donde no le afectan las balas.
+		- El zombie bombero: no le pueden hacer daño desde ninguna fuente de fuego del juego.
+		- El enfermero: comprobar que el ácido hace daño a todos los personajes y que resiste menos balas que un zombie normal.
+		- El Gentleman: comprobar que salta todos los obstáculos de su mapa y que incapacite a cualquier personaje del juego.
+	3. Comprobar que las mecánicas especiales implementadas en cada mapa funcionen correctamente. 
+	4. Probar que todas las habilidades de los personajes funcionan correctamente.
+
+Después de hacer cada prueba se apuntarán los fallos que se encuentren y se le pasará al equipo de balanceo para que lo arregle.
 
 ## Plataformas y tecnologia
 ### Plataformas de Desarrollo
