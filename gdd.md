@@ -59,7 +59,7 @@ ZombieSpread es un juego de supervivencia zombie por rondas en realidad virtual 
 ## Personajes y enemigos
 -
 ## Niveles y mapas
-﻿### Niveles y Mapas
+### Niveles y Mapas
 Los niveles sucederán en un espacio reducido donde los jugadores se coordinarán para evitar que ningún zombie logre llegar a vosotros.
 
 Contamos con una serie de niveles principales, cada uno con sus propias características y enemigos propios:
