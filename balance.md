@@ -27,8 +27,8 @@ Se realizarán pruebas automatizadas y pruebas manuales con los siguientes objet
 	2. Comprobar que las mecánicas de los zombies especiales funcionan correctamente:
 		- El zombie policía: tiene que tener bien delimitada la zona donde no le afectan las balas.
 		- El zombie bombero: no le pueden hacer daño desde ninguna fuente de fuego del juego.
-		- El enfermero: hay que comprobar que el ácido hace daño a todos los personajes y que resiste menos balas que un zombie normal.
-		- El Gentleman: hay que comprobar que salta todos los obstáculos de su mapa y que puede incapacitar a cualquier personaje del juego.		
+		- El enfermero: comprobar que el ácido hace daño a todos los personajes y que resiste menos balas que un zombie normal.
+		- El Gentleman: comprobar que salta todos los obstáculos de su mapa y que incapacite a cualquier personaje del juego.		
 	3. Comprobar que las mecánicas especiales implementadas en cada mapa funcionen correctamente. 
 	4. Probar que todas las habilidades de los personajes funcionan correctamente.
 
