@@ -5,7 +5,7 @@ ZombieSpread es un juego de supervivencia por rondas en realidad virtual. El jue
 - Unity test framework
 - Krita
 - Git
-## Créditos
+# Créditos
 ### Brais
 - Personajes y enemigos
 - Arte y diseño visual
