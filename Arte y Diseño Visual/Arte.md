@@ -6,5 +6,23 @@ El diseño de los enemigos debe provocar terror en el jugador y hacerles sentir 
 
 En cuanto a los personajes jugables, habrá diversidad en cuánto a la representación de etnias y géneros para hacer sentir cómodos a la mayor cantidad de jugadores posibles. Llevarán como parte de su diseño ropas y elementos que hagan sencillo identificar sus roles jugables. También serán lo más expresivos posible y mostrarán distintas emociones en sus caras y lenguaje corporal según la situación en la que se encuentren: con baja vida, recién atacados por un infectado, habiendo matado a varios de ellos seguidos...
 
-![Ciudad]()
-![Hospital]()
+![Ciudad](https://raw.githubusercontent.com/kevincerro-dvrv/dxpp-gdd/feature/art/Arte%20y%20Dise%C3%B1o%20Visual/Concept%20Arts/ciudad.png)
+![Hospital](https://raw.githubusercontent.com/kevincerro-dvrv/dxpp-gdd/feature/art/Arte%20y%20Dise%C3%B1o%20Visual/Concept%20Arts/hospital.png)
+
+## Arte 2D
+
+- Menús.
+- Texturas de los mapas.
+- Arte con fines de marketing.
+
+## Arte 3D
+
+- Modelos de los personajes jugables y los enemigos.
+- Animaciones de los mismos.
+- Mapas y todos los objetos que contengan.
+
+## Cinemáticas
+
+- Presentación de los mapas al comienzo de cada partida.
+- Fin de partida.
+- Vídeos promocionales con fines de marketing.
