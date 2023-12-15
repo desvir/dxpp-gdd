@@ -22,13 +22,13 @@ Los *zombies policías* juraron proteger en vida a las mismas personas que hoy i
 
 ![Imagen Zombie Bombero](https://raw.githubusercontent.com/kevincerro-dvrv/dxpp-gdd/main/Personajes%20y%20Enemigos/Enemigos/Concept%20Art/Zombie%20Bombero.png)
 
-Los *zombies bomberos* son los otrora valientes héroes de la estación de bomberos NewHope, que a pesar de sus portentosas capacidades físicas jamás estuvieron preparados para lidiar con una situación como la actual. Acorralados ante la inminencia de su conversión, decidieron usar como aliado al que fue su mayor enemigo: el fuego. Desgraciadamente para ellos, la cepa que los infectó los convirtió en antorchas humanas, inmunes a cualquier tipo de explosión y capaces de causar graves quemaduras al mínimo contacto.
+Los *zombies bomberos* son los otrora valientes héroes de la estación de bomberos New Hope, que a pesar de sus portentosas capacidades físicas jamás estuvieron preparados para lidiar con una situación como la actual. Acorralados ante la inminencia de su conversión, decidieron usar como aliado al que fue su mayor enemigo: el fuego. Desgraciadamente para ellos, la cepa que los infectó los convirtió en antorchas humanas, inmunes a cualquier tipo de explosión y capaces de causar graves quemaduras al mínimo contacto.
 
 ### 2.3 **Enfermeros**
 
 ![Imagen Zombie Enfermero](https://raw.githubusercontent.com/kevincerro-dvrv/dxpp-gdd/main/Personajes%20y%20Enemigos/Enemigos/Concept%20Art/Zombie%20Enfermero.png)
 
-Los *zombies enfermeros* fueron los primeros zombies en aparecer, ya que constan mayormente del personal médico que trabajaba en el hospital SummerStone, la *zona cero* del incidente. La cepa del virus con la que fueron infectados convirtió su sangre en ácido, la cuál no dudarán en usar cómo arma arrojadiza escupiéndolo por sus bocas. Cómo la cantidad de ácido que portan sus cuerpos raramente es suficiente, acostumbran a llevar jeringillas para recargar su munición. Es este el momento que deben aprovechar los jugadores para deshacerse de tan molesta variedad, que por otro lado no aguanta demasiado.
+Los *zombies enfermeros* fueron los primeros zombies en aparecer, ya que constan mayormente del personal médico que trabajaba en el hospital Summerstone, la *zona cero* del incidente. La cepa del virus con la que fueron infectados convirtió su sangre en ácido, la cuál no dudarán en usar cómo arma arrojadiza escupiéndolo por sus bocas. Cómo la cantidad de ácido que portan sus cuerpos raramente es suficiente, acostumbran a llevar jeringillas para recargar su munición. Es este el momento que deben aprovechar los jugadores para deshacerse de tan molesta variedad, que por otro lado no aguanta demasiado.
 
 ### 2.4 **Gentleman**
 
