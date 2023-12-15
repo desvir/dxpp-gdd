@@ -261,6 +261,8 @@ Este mapa tendrá lugar en un hospital abandonado tras la desgracia. Esperemos q
 
 El objetivo del diseño de este nivel es hacer sentir a los jugadores rodeados, ya que, si bien los zombies tienen que atravesar pequeños pasillos, el área principal es amplia de tal forma que los zombies se pueden distribuir para abarcar todo el espacio disponible y atacar conjuntamente a los protagonistas.
 
+![](https://github.com/kevincerro-dvrv/dxpp-gdd/blob/main/imagen%20ia/Mapa%20aereo%20hopital.jpg?raw=true)
+
 ##### Vista General
 
 Está compuesto por una intersección central donde estarán ubicados los supervivientes rodeados por cuatro entradas que serán llenadas de contagiados en instantes.  
@@ -324,6 +326,8 @@ Este mapa tendrá lugar en una ciudad consumida por la infección. Afortunadamen
 
 El objetivo de este diseño es crear el caos de una gran ciudad. Todas las entradas cuentan con una serie de callejones que los zombies pueden decidir tomar o no, aquellas zonas libres pueden convertirse en zonas infestadas de enemigos en un abrir y cerrar de ojos.
 
+![](https://github.com/kevincerro-dvrv/dxpp-gdd/blob/main/imagen%20ia/calles.jpg?raw=true)
+
 ##### Vista General
 
 El nivel está compuesto por cuatro calles que llevan a un cruce central donde están situados los jugadores, las vías constan de una serie de pasadizos conectados con las avenidas adyacentes.
@@ -366,6 +370,8 @@ En su inversa descubriremos el sistema de vías que unen la entrada oeste con el
 Este mapa tendrá lugar en un parque de bomberos. El objetivo de este mapa es ofrecer un entorno relativamente controlado, pues es un mapa en el que no hay grandes cambios en lo relativo a la aparición de enemigos. No obstante, pueden ocurrir casos en los que la cantidad de zombies superen a nuestros protagonistas.  
 
 En este mapa los supervivientes cuentan con una gran cantidad de espacio dentro de sus barricadas por lo que deben saber distribuirse correctamente, pues tomará cierto tiempo recorrer el espacio entero.
+
+![](https://github.com/kevincerro-dvrv/dxpp-gdd/blob/main/imagen%20ia/Parque%20de%20bomberos.jpg?raw=true)
 
 ##### Vista Aérea
 
