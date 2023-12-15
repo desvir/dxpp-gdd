@@ -3,6 +3,8 @@ Este mapa tendrá lugar en un parque de bomberos. El objetivo de este mapa es of
 
 En este mapa los supervivientes cuentan con una gran cantidad de espacio dentro de sus barricadas por lo que deben saber distribuirse correctamente, pues tomará cierto tiempo recorrer el espacio entero.
 
+![](https://github.com/kevincerro-dvrv/dxpp-gdd/blob/main/imagen%20ia/Parque%20de%20bomberos.jpg?raw=true)
+
 ## Vista Aérea
 
 El nivel está compuesto por una amplia área central mayormente ocupada por los jugadores, y cuatro entradas no muy lejanas a las barricadas, de tal forma que no le tomará mucho tiempo a un zombie para empezar a destruirla  
