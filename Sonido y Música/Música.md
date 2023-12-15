@@ -8,6 +8,6 @@ El segundo estilo musical será uno más cañero, de género Rock o incluso Heav
 
 [Música de acción](https://github.com/kevincerro-dvrv/dxpp-gdd/blob/feature/music/Sonido%20y%20M%C3%BAsica/Ejemplos/Action-Rock.mp3)
 
-En cuánto a los efectos de sonido, no habrá voces cómo tales, ya que los personajes jugables no hablarán al realizarse toda comunicación entre los jugadores de forma directa, pero los zombies realizarán distintos ruídos inhumanos, con el objetivo de hacer saber a los jugadores por dónde atacarán, y también para reforzar la ambientación tétrica del juego.
+En cuánto a los efectos de sonido, no habrá voces cómo tales, ya que los personajes jugables no hablarán al realizarse toda comunicación entre los jugadores de forma directa, pero los zombies realizarán distintos ruidos inhumanos, con el objetivo de hacer saber a los jugadores por dónde atacarán, y también para reforzar la ambientación tétrica del juego.
 
 [Efecto de sonido zombie](https://github.com/kevincerro-dvrv/dxpp-gdd/blob/feature/music/Sonido%20y%20M%C3%BAsica/Ejemplos/zombie.mp3)
