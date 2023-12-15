@@ -1,4 +1,5 @@
 # Cronograma y Desarrollo
 
-![imagen](https://github.com/kevincerro-dvrv/dxpp-gdd/assets/98803514/de25f269-5e25-479e-8737-2f0dadf498db)
+![imagen](https://github.com/kevincerro-dvrv/dxpp-gdd/assets/98803514/37d944c6-3939-4588-bb2f-a5cb1f8e274b)
+
 
