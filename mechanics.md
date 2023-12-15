@@ -1,8 +1,6 @@
-# Diseño del Juego de Zombies en VR - Documento de Diseño del Juego (GDD)
+# Mecánicas del Juego
 
-## Mecánicas del Juego
-
-### Jugabilidad
+## Jugabilidad
 
 - **Cooperativo en Espacio Compartido:** El juego aprovecha la realidad virtual y el espacio físico compartido para fomentar la cooperación entre jugadores. La comunicación y la estrategia son clave para sobrevivir.
 
@@ -12,7 +10,7 @@
 
 - **Máquina de Mejora:** Personaliza tus armas en la máquina de mejora. Con opciones estándar y épicas (verde y arcoíris), los jugadores pueden adaptar su arsenal para enfrentar desafíos específicos.
 
-### Objetos y consumibles
+## Objetos y consumibles
 
 - **Diversidad de Armas:** Descubre una amplia variedad de armas al final de cada ronda, cada una con su propio estilo de juego. La elección de armas se convierte en una estrategia esencial para la supervivencia.
 
