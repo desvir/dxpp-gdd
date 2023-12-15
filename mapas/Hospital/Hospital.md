@@ -5,6 +5,8 @@ Este mapa tendrá lugar en un hospital abandonado tras la desgracia. Esperemos qu
 
 El objetivo del diseño de este nivel es hacer sentir a los jugadores rodeados, ya que, si bien los zombies tienen que atravesar pequeños pasillos, el área principal es amplia de tal forma que los zombies se pueden distribuir para abarcar todo el espacio disponible y atacar conjuntamente a los protagonistas.
 
+![](https://github.com/kevincerro-dvrv/dxpp-gdd/blob/main/imagen%20ia/Mapa%20aereo%20hopital.jpg?raw=true)
+
 ### Vista General
 
 Está compuesto por una intersección central donde estarán ubicados los supervivientes rodeados por cuatro entradas que serán llenadas de contagiados en instantes.  

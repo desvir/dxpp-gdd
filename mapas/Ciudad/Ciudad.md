@@ -3,6 +3,8 @@ Este mapa tendrá lugar en una ciudad consumida por la infección. Afortunadamen
 
 El objetivo de este diseño es crear el caos de una gran ciudad. Todas las entradas cuentan con una serie de callejones que los zombies pueden decidir tomar o no, aquellas zonas libres pueden convertirse en zonas infestadas de enemigos en un abrir y cerrar de ojos.
 
+![](https://github.com/kevincerro-dvrv/dxpp-gdd/blob/main/imagen%20ia/calles.jpg?raw=true)
+
 ## Vista General
 
 El nivel está compuesto por cuatro calles que llevan a un cruce central donde están situados los jugadores, las vías constan de una serie de pasadizos conectados con las avenidas adyacentes.
