@@ -640,7 +640,8 @@ Se utilizarán técnicas avanzadas de sincronización de jugadores para garantiz
 Se explorará la posibilidad de integrar elementos de realidad aumentada para proporcionar una experiencia más inmersiva, permitiendo a los jugadores ver elementos del juego en su entorno real.
 
 ## Cronograma y desarrollo
--
+![imagen](https://github.com/kevincerro-dvrv/dxpp-gdd/assets/98803514/a71d8ef0-877d-4ee0-8a8d-f07525f4a3c6)
+
 ## Marketing y promoción
 ### Marketing
 
